@@ -268,7 +268,7 @@ return (
       Calculator
     </div>
 
-    <div className="w-[540px] bg-slate-200 rounded-3xl shadow-2xl p-6 mt-10">
+    <div className="w-200 bg-slate-200 rounded-3xl shadow-2xl p-6 mt-10">
       
       <div className="bg-slate-900 text-white rounded-2xl p-5 mb-5 text-right">
         <div className="text-xl text-gray-400 min-h-[30px]">{operation || " "}</div>
